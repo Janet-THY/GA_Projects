@@ -1,2 +1,2 @@
 # GA_Projects
-Projects in General Assembly
+Projects in General Assembly :bulb:
