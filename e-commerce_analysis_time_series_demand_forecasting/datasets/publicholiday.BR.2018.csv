@@ -1,0 +1,14 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2018-01-01,Confraternização Universal,New Year's Day,BR,True,True,,Public,
+2018-02-13,Carnaval,Carnival,BR,False,True,,Public,
+2018-03-30,Sexta-feira Santa,Good Friday,BR,False,True,,Public,
+2018-04-01,Domingo de Páscoa,Easter Sunday,BR,False,True,,Public,
+2018-04-21,Dia de Tiradentes,Tiradentes,BR,True,True,,Public,
+2018-05-01,Dia do Trabalhador,Labour Day,BR,True,True,,Public,
+2018-05-31,Corpus Christi,Corpus Christi,BR,False,True,,Public,
+2018-07-09,Revolução Constitucionalista de 1932,Constitutionalist Revolution of 1932,BR,True,False,,Public,BR-SP
+2018-09-07,Dia da Independência,Independence Day,BR,True,True,,Public,
+2018-10-12,Nossa Senhora Aparecida,Our Lady of Aparecida,BR,True,True,,Public,
+2018-11-02,Dia de Finados,All Souls' Day,BR,True,True,,Public,
+2018-11-15,Proclamação da República,Republic Proclamation Day,BR,True,True,,Public,
+2018-12-25,Natal,Christmas Day,BR,True,True,,Public,
