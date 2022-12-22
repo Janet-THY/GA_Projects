@@ -91,6 +91,3 @@ My recommendation for the above-mentioned target audience is:
 - market a reasonable ReTesting package
 - continue School Day testing
 - update prepping material/ asssessment suite regularly and inform students earlier
-
-
-**To-Do:** *If you combine your problem statement, data dictionary, brief summary of your analysis, and conclusions/recommendations, you have an amazing README.md file that quickly aligns your audience to the contents of your project.* Don't forget to cite your data sources!
