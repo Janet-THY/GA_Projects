@@ -61,7 +61,7 @@ The data used was sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/
 3. [Demand Forecasting Modelling](codes/03_Demand_Forecasting_Modelling.ipynb)
 4. [SQL](codes/04_e_commerce_SQL.ipynb)
 5. [PowerBI Dashboard](https://youtu.be/eVIs1CxDnLc)
-[![Olist e-commerce PowerBI dashboard/report](https://img.youtube.com/vi/eVIs1CxDnLc>/0.jpg)](http://www.youtube.com/watch?v=eVIs1CxDnLc "Olist e-commerce PowerBI dashboard/report")
+[![Olist e-commerce PowerBI dashboard/report](https://img.youtube.com/vi/eVIs1CxDnLc/0.jpg)](http://www.youtube.com/watch?v=eVIs1CxDnLc "Olist e-commerce PowerBI dashboard/report")
 
 ## Summary of EDA
 Datasets are merged sequentially and information is extracted and aggregated to meet the purpose of the visualisation.
