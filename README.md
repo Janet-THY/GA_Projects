@@ -1,5 +1,5 @@
-# GA_Projects
-Projects in General Assembly where I learnt about Data Science :bulb:
+# Janet's Projects at GA
+Welcome to my project collection in General Assembly where I learnt about Data Science :bulb:
 
 |Projects|Dataset|Description/Problem Statement|Library(top_5)|
 |---|---|---|---|
@@ -9,3 +9,4 @@ Projects in General Assembly where I learnt about Data Science :bulb:
 |[Ames_Housing_Price](https://github.com/Janet-THY/GA_Projects/tree/main/project_2_Ames_Housing_Price)|[dataset](https://github.com/Janet-THY/GA_Projects/tree/main/project_1_Standardized_Test_Analysis/data)| - Develope a predictive model to estimate the price of houses based on fixed features i.e. characteristics that cannot be easily renovated (e.g. location, square feet, number of bedrooms and bathrooms) - Identify top 5 important features for high sale price houses -  Predict house sale price for each given house ID | *pandas* *sklearn* *numpy* *statsmodels* *plotly*|
 |[Standardized_Test_SAT_ACT_Analysis](https://github.com/Janet-THY/GA_Projects/tree/main/project_1_Standardized_Test_Analysis)|[dataset](https://github.com/Janet-THY/GA_Projects/tree/main/project_1_Standardized_Test_Analysis/data)| Helping Colleage Board and ACT Inc. to focus on the states where performance score can be furthre boosted while maintaining high participation rate | *pandas* *numpy* *scipy* *seaborn* *matplotlib*|
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janet-tinghy-pmp/) for knowledge exchange, chat or collaboration.

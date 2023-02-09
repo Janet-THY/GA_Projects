@@ -56,9 +56,11 @@ The data used was sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/
 
 
 ## Table of Contents
-1. [Introduction and Data Joining]('01_Introduction_Data_Joining.ipynb')
-2. [Exploratory Data Analysis (EDA), Feature Engineering and Preprocessing]('02_EDA_Feature_Engineering.ipynb')
-3. [Demand Forecasting Modelling]('03_Demand_Forecasting_Modelling.ipynb')
+1. [Introduction and Data Joining](codes/01_Introduction_Data_Joining.ipynb)
+2. [Exploratory Data Analysis (EDA), Feature Engineering and Preprocessing](codes/02_EDA_Feature_Engineering.ipynb)
+3. [Demand Forecasting Modelling](codes/03_Demand_Forecasting_Modelling.ipynb)
+4. [SQL](codes/04_e_commerce_SQL.ipynb)
+5. [PowerBI Dashboard](https://youtu.be/eVIs1CxDnLc)
 
 
 ## Summary of EDA
@@ -126,16 +128,16 @@ ___
 <u> Baseline </u>: The original time-series dataset for each model without data tranformation. 
 
 <u> Experiments Components </u>:
-* [4 Data transformations](#trans):
+* [4 Data transformations](codes/03_Demand_Forecasting_Modelling.ipynb):
   * Original time-series dataset
   * Time-series Deseasonalized with STL Decomposition
   * Time-series Transformed with Box-cox Tranformation 
   * Time-series with Seasonal Differencing 
 * 4 Time-series models:
-  * [Time-series regression](#res_reg)
-  * [Holt-winter's exponential smoothing](#res_es)
-  * [Auto ARIMA](#res_arima)
-  * [Long-short term memory/ LSTM](#res_lstm)
+  * [Time-series regression]()
+  * [Holt-winter's exponential smoothing]()
+  * [Auto ARIMA]()
+  * [Long-short term memory/ LSTM]()
 * Grid-search hyperparameters space:
   * Holt-winter's exponential smoothing
     * Smoothing Level, $\alpha$: 0, 1, 2, ..., 7, 8, 9
