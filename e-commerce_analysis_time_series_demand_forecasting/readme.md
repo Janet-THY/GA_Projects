@@ -182,6 +182,9 @@ In conclusion, we want to forecast the subsequent two months’ order count with
 3. Storesellers can also practise more proactive demand forecasting which does not only make use of historical data but external factors too.
 4. As future is uncertain, forecasts must often be revised, and actual results can vary greatly.    
 
+## Web app
+The web application can be found here:
+[](https://streamlit-forecasting-app-masterforecast-streamlit-app-nfh4yq.streamlit.app/)
 
 ## References 
 1. [2018_Forecasting_and_Inventory_Benchmark_Study_white_paper_digital](https://www.e2open.com/wp-content/uploads/2019/02/2018_Forecasting_and_Inventory_Benchmark_Study_white_paper_digital.pdf)
