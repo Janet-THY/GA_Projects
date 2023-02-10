@@ -135,10 +135,10 @@ ___
   * Time-series Transformed with Box-cox Tranformation 
   * Time-series with Seasonal Differencing 
 * 4 Time-series models:
-  * [Time-series regression]()
-  * [Holt-winter's exponential smoothing]()
-  * [Auto ARIMA]()
-  * [Long-short term memory/ LSTM]()
+  * Time-series regression
+  * Holt-winter's exponential smoothing
+  * Auto ARIMA
+  * Long-short term memory/ LSTM
 * Grid-search hyperparameters space:
   * Holt-winter's exponential smoothing
     * Smoothing Level, $\alpha$: 0, 1, 2, ..., 7, 8, 9
@@ -184,7 +184,7 @@ In conclusion, we want to forecast the subsequent two months’ order count with
 
 ## Web app
 The web application can be found here:
-[](https://streamlit-forecasting-app-masterforecast-streamlit-app-nfh4yq.streamlit.app/)
+[e-4Cast Time Series Forecasting](https://streamlit-forecasting-app-masterforecast-streamlit-app-nfh4yq.streamlit.app/)
 
 ## References 
 1. [2018_Forecasting_and_Inventory_Benchmark_Study_white_paper_digital](https://www.e2open.com/wp-content/uploads/2019/02/2018_Forecasting_and_Inventory_Benchmark_Study_white_paper_digital.pdf)
